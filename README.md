@@ -47,7 +47,7 @@ Matplotlib / Seaborn (optional for EDA)
 ✅ How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/medical_insurance_cost.git
+git clone https://github.com/Shree-soni/medical_insurance_cost.git
 cd medical_insurance_cost
 Install dependencies:
 
