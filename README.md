@@ -20,9 +20,7 @@ Includes preprocessing and model training pipeline
 Fully open-source and ready for deployment
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 medical_insurance_cost/
 │
 ├── app.py                  # Streamlit frontend
@@ -49,20 +47,13 @@ Matplotlib / Seaborn (optional for EDA)
 ✅ How to Run
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/medical_insurance_cost.git
 cd medical_insurance_cost
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the Streamlit app:
 
-bash
 streamlit run app.py
 
 📚 Dataset
